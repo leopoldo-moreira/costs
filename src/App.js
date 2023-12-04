@@ -4,6 +4,8 @@ import Contact from './components/pages/Contact'
 import Company from './components/pages/Company'
 import NewProject from './components/pages/NewProject'
 
+import Container from './components/layout/Container'
+
 
 function App() {
   return (
@@ -14,12 +16,14 @@ function App() {
         <Link to='/company'>Empresa</Link>
         <Link to='/newproject'>Novo Projeto</Link>
       </div>
-      <Routes>
-        <Route exact path='/' element={<Home/>}/> 
-        <Route  path='/company' element={<Company/>}/>
-        <Route  path='/contact' element={<Contact/>}/>
-        <Route  path='/newproject' element={<NewProject/>}/>
-      </Routes>
+      <Container customClass="min-height">
+        <Routes>        
+            <Route exact path='/' element={<Home/>}/> 
+            <Route  path='/company' element={<Company/>}/>
+            <Route  path='/contact' element={<Contact/>}/>
+            <Route  path='/newproject' element={<NewProject/>}/>        
+        </Routes>
+      </Container>
     </Router>
   );
 }
