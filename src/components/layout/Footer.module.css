@@ -1,0 +1,35 @@
+.footer{
+    background-color: #222;
+    padding: 3em;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+
+.social_list{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: auto auto;
+}
+
+.social_item{
+    margin: 0 1em;    
+}
+
+.social_item svg{
+    color: white;
+    font-size: 1.5em;
+}
+
+.social_item svg:hover{
+    color: #ffbb33;
+    cursor: pointer;
+}
+
+p{    
+    margin-top: 1em;
+    font-weight: bold;
+    color: white;
+    display: block;
+}
