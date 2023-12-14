@@ -1,13 +1,20 @@
-import styles from './NewProject.module.css'
-import ProjectForm from '../projects/ProjectForm'
-
+import {useLocation} from 'react-router-dom'
+import Message from "../layout/Message"
 
 function Projects(){
+
+    const location = useLocation();
+    let message = ''
+    if (location.state){
+        message = location.state.message
+    }
+
+
     return(
-        <div className={styles.project_container}> 
-            <h1>Criar Projeto</h1>
-            <p>Crie seu projeto para depois adicionar os serviços</p>
-            <ProjectForm/>
+        <div> 
+            <h1>Meus Projetos</h1>
+            {console.log(message)}
+            { message && <Message type='success' msg={message}/>}
         </div>
     )
 }
