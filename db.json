@@ -1,10 +1,44 @@
 {
-    "projects": [],
-    "categories": [
-        {"id":1, "name": "Infra"},
-        {"id":2, "name": "Desenvolvimento"},
-        {"id":3, "name": "Design"},
-        {"id":4, "name": "Planejamento"}
-    ]
-
+  "projects": [
+    {
+      "name": "Leopoldo",
+      "budget": "34234",
+      "categorie": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "sevices": [],
+      "id": 1
+    },
+    {
+      "categorie": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "name": "dsads",
+      "budget": "213213",
+      "cost": 0,
+      "sevices": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
 }
