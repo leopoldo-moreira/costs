@@ -1,11 +1,11 @@
 {
   "projects": [
     {
-      "name": "Tramal",
-      "budget": "5000",
+      "name": "Tramal Atualiado",
+      "budget": "80000",
       "categorie": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "1",
+        "name": "Infra"
       },
       "cost": 0,
       "sevices": [],
