@@ -2,7 +2,7 @@
   "projects": [
     {
       "name": "Tramal Atualiado",
-      "budget": "80000",
+      "budget": "1500",
       "categorie": {
         "id": "1",
         "name": "Infra"
