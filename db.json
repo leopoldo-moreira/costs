@@ -7,16 +7,33 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 1000,
+      "cost": 1100,
       "services": [
         {
           "name": "sdafsdfs",
           "cost": "1000",
           "description": "sdfsda",
           "id": "df33e929-927d-4d1c-9402-b39f5eab540a"
+        },
+        {
+          "name": "fdsfa",
+          "cost": "100",
+          "description": "sadfsda",
+          "id": "01743dbe-4149-4981-b02a-09e2d58f683d"
         }
       ],
       "id": 1
+    },
+    {
+      "name": "teste 03/01/2024",
+      "budget": "5000",
+      "categorie": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
     }
   ],
   "categories": [
