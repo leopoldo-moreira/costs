@@ -1,4 +1,4 @@
-<div styles="margin:auto">
+<div align="center">
   <h1>Projeto Costs</h1>
   <h3>Gerencie os custos de seus projetos</h3>
   
@@ -12,6 +12,7 @@
     <img alt="react logo" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
   </div>
 
+  <br>
   <p>Confira os resultados</p>
   
   
