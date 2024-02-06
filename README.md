@@ -1,23 +1,17 @@
 <h1 align="center">
 <br>
-  <img src="./public/logo.png" alt="Costs" width="64">  
+  <img src="./public/logo.png" alt="Costs" width="56">  
 <br>
 <br>
 Costs
 </h1>
 
-<p align="center">A little description about your project</p>
-
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
-  </a>
-</p>
+<p align="center">Manage your project costs</p>
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="IMAGE_1_URL" alt="demo" height="425">
-  <img src="IMAGE_2_URL" alt="demo" height="425">
+  <iframe src="https://giphy.com/embed/JSkzuZd1qqJSdD5bRa" width="480" height="228" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="[https://giphy.com/embed/JSkzuZd1qqJSdD5bRa](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW84MHFtbzZyczUzNTlpY2JucWsycWxiZWo0bTBwaG45NHZvb2t4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JSkzuZd1qqJSdD5bRa/giphy.gif)" alt="demo" height="425">
 </div>
 
 <hr />
