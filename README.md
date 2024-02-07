@@ -17,9 +17,55 @@
 
   ![via GIPHY](https://media.giphy.com/media/JSkzuZd1qqJSdD5bRa/giphy.gif)
 
+<h2>🚀 Instalação do Costs</h2>
+<p>Siga essas etapas para instalar o Costs localmente</p>
 
-  
+<br>
 
+Clone do repositório
+
+   ```
+  git clone https://github.com/leopoldo-moreira/costs.git
+  ```
+<br>
+
+Navegue até o diretorio do projeto
+
+   ```
+  cd nome-do-repositorio
+  ```
+<br>
+
+Instale as dependências usando npm ou yarn:
+<br>
+
+   ```
+  npm install
+  ```
+
+   ```
+ yarn install
+  ```
+<br>
+
+Inicie o db.json (necessário usar 2 terminais, um para o db.json outro para iniciar a aplicação)
+
+   ```
+  npm run backend
+  ```
+<br>
+
+Inicie o sevidor de desenvolvimento
+   ```
+  npm start
+  ```
+  ou
+   ```
+  yarn start
+  ```
+<br>
+
+<p>Isso iniciará o servidor de desenvolvimento do React e abrirá automaticamente o aplicativo em seu navegador padrão. Se não abrir automaticamente, você pode acessar o aplicativo em http://localhost:3000.</p>
   
   
   
