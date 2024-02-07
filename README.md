@@ -24,9 +24,7 @@
 
 Clone do repositório
 
-   ```
-  git clone https://github.com/leopoldo-moreira/costs.git
-  ```
+   `git clone https://github.com/leopoldo-moreira/costs.git`
 <br>
 
 Navegue até o diretorio do projeto
