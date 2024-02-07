@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" styles="text-align:center">
   <h1>Projeto Costs</h1>
   <h3>Gerencie os custos de seus projetos</h3>
   
@@ -31,13 +31,11 @@ Clone do repositório
 
 Navegue até o diretorio do projeto
 
-<div style="text-align:center">
+
   
   ```
   cd nome-do-repositorio
   ```
-
-</div>
 
    
 <br>
