@@ -32,9 +32,11 @@ Clone do repositório
 Navegue até o diretorio do projeto
 
 <div style="text-align:center">
+  
   ```
   cd nome-do-repositorio
-  ```  
+  ```
+
 </div>
 
    
