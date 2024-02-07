@@ -31,9 +31,13 @@ Clone do repositório
 
 Navegue até o diretorio do projeto
 
-   ```
-  cd nome-do-repositorio
+<div style="text-align:center">
   ```
+  cd nome-do-repositorio
+  ```  
+</div>
+
+   
 <br>
 
 Instale as dependências usando npm ou yarn:
@@ -50,7 +54,7 @@ Instale as dependências usando npm ou yarn:
 
 Inicie o db.json (necessário usar 2 terminais, um para o db.json outro para iniciar a aplicação)
 
-   ```
+ ```
   npm run backend
   ```
 <br>
