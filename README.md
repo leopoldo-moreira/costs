@@ -23,48 +23,28 @@
 <br>
 
 Clone do repositório
-
+<br>
    `git clone https://github.com/leopoldo-moreira/costs.git`
 <br>
 
-Navegue até o diretorio do projeto
-
-
+Navegue até o diretorio do projeto  
+  `cd nome-do-repositorio`
   
-  ```
-  cd nome-do-repositorio
-  ```
-
-   
-<br>
-
 Instale as dependências usando npm ou yarn:
 <br>
+   `npm install`
+   ou
+   `yarn install`   
 
-   ```
-  npm install
-  ```
-
-   ```
- yarn install
-  ```
-<br>
-
-Inicie o db.json (necessário usar 2 terminais, um para o db.json outro para iniciar a aplicação)
-
- ```
-  npm run backend
-  ```
+Inicie o db.json (necessário usar 2 terminais, um para o db.json outro para iniciar a aplicação)<br>
+ `npm run backend`
 <br>
 
 Inicie o sevidor de desenvolvimento
-   ```
-  npm start
-  ```
+<br>
+   `npm start`
   ou
-   ```
-  yarn start
-  ```
+   `yarn start`
 <br>
 
 <p>Isso iniciará o servidor de desenvolvimento do React e abrirá automaticamente o aplicativo em seu navegador padrão. Se não abrir automaticamente, você pode acessar o aplicativo em http://localhost:3000.</p>
