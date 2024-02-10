@@ -49,8 +49,5 @@ Inicie o sevidor de desenvolvimento
 
 <p>Isso iniciará o servidor de desenvolvimento do React e abrirá automaticamente o aplicativo em seu navegador padrão. Se não abrir automaticamente, você pode acessar o aplicativo em http://localhost:3000.</p>
   
-  
-  
-  
   ### Crédito: <a href="https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO">Hora de Codar</a>
 </div>
