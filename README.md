@@ -13,16 +13,10 @@
   </div>
 
   <br>
-  <p>Confire os resultados</p>
+  <p>Confire os resultados</p>  
 
-  
-
-  <!-- ![via GIPHY](https://media.giphy.com/media/JSkzuZd1qqJSdD5bRa/giphy.gif) -->
-
-
-  
-https://github.com/leopoldo-moreira/costs/assets/99694479/e0cbd277-308a-4716-815a-0daeb6b94801
-
+ ![via GIPHY](https://media.giphy.com/media/JSkzuZd1qqJSdD5bRa/giphy.gif) 
+ 
 <h2>🚀 Instalação do Costs</h2>
 <p>Siga essas etapas para instalar o Costs localmente</p>
 
