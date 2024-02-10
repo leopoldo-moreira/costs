@@ -17,6 +17,24 @@
         }
       ],
       "id": 1
+    },
+    {
+      "name": "Novo Projeto",
+      "budget": "10000",
+      "categorie": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 2000,
+      "services": [
+        {
+          "name": "Novo Serviço",
+          "cost": "2000",
+          "description": "serviço qualquer",
+          "id": "3d8223e0-7102-4fb1-90fd-800019f6dbcd"
+        }
+      ],
+      "id": 2
     }
   ],
   "categories": [
