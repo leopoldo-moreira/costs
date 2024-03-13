@@ -3,7 +3,7 @@
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
-    flex-wrap: wrap;        
+    flex-wrap: wrap;       
 }
 
 .min-height {
@@ -16,4 +16,10 @@
 
 .column {
     flex-direction: column;
+}
+
+@media (max-width:480px){
+    .container{
+        width: 100%;
+    }
 }
