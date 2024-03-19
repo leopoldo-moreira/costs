@@ -3,7 +3,7 @@
     padding: 3em;
     display: flex;
     text-align: center;
-    flex-direction: column;
+    flex-direction: column;    
 }
 
 .social_list{
@@ -32,4 +32,10 @@
     font-weight: bold;
     color: white;
     display: block;
+}
+
+@media (max-width:480px){
+    .footer{
+        padding: 1em;        
+    }
 }

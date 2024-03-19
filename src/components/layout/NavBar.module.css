@@ -23,3 +23,9 @@
 .item a:hover{
     color: #ffbb33;    
 }
+
+@media (max-width:480px){
+    .navbar{
+        padding: .1em;        
+    }
+}
