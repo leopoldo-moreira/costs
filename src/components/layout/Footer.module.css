@@ -37,7 +37,7 @@
 @media (max-width:480px) {
     .footer {
         padding: 2em;
-        position: absolute;
+        position: relative;
         bottom: 0;
         width: 100%;
     }

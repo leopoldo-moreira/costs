@@ -1,58 +1,15 @@
 {
   "projects": [
     {
-      "name": "Criar site de costura",
-      "budget": "4999",
-      "categorie": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 500,
-      "services": [
-        {
-          "name": "costureira",
-          "cost": "500",
-          "description": "costurar",
-          "id": "584b2162-7575-4466-9d8e-835786710388"
-        }
-      ],
-      "id": 1
-    },
-    {
       "name": "Novo Projeto",
-      "budget": "10000",
+      "budget": "2000",
       "categorie": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 2000,
-      "services": [
-        {
-          "name": "Novo Serviço",
-          "cost": "2000",
-          "description": "serviço qualquer",
-          "id": "3d8223e0-7102-4fb1-90fd-800019f6dbcd"
-        }
-      ],
-      "id": 2
-    },
-    {
-      "name": "Responsive WebDesign",
-      "budget": "1000",
-      "categorie": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 500,
-      "services": [
-        {
-          "name": "Site",
-          "cost": "500",
-          "description": "ssddf",
-          "id": "382ff0da-064a-488b-9f61-2af1f1611813"
-        }
-      ],
-      "id": 3
+      "cost": 0,
+      "services": [],
+      "id": 1
     }
   ],
   "categories": [
