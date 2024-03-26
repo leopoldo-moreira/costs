@@ -8,3 +8,24 @@
     margin-bottom: 2em;    
 }
 
+
+@media (max-width: 480px){
+
+    .project_container{
+        margin: 0 auto;
+    }
+
+    .title_container{
+        flex-direction: column;
+    }
+
+    .title_container > h1{
+        margin-bottom: .5em;
+        text-align: center;
+    }
+
+    .title_container > a{
+        text-align: center;
+    }
+
+}
