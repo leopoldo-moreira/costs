@@ -21,6 +21,36 @@
       "cost": 0,
       "services": [],
       "id": 2
+    },
+    {
+      "name": "restaurante",
+      "budget": "10000",
+      "categorie": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 10000,
+      "services": [
+        {
+          "name": "Pedreiros",
+          "cost": "3000",
+          "description": "Estrutura do local",
+          "id": "e6a27886-af79-4488-a093-0e1993480c34"
+        },
+        {
+          "name": "Pintor",
+          "cost": "3000",
+          "description": "Pintar o predio",
+          "id": "395d6754-b5de-4703-8adf-de4a5007e810"
+        },
+        {
+          "name": "Eletricista",
+          "cost": "4000",
+          "description": "dfdsfs",
+          "id": "a58dfc44-95ad-45e4-9b01-ccbf83352c9b"
+        }
+      ],
+      "id": 3
     }
   ],
   "categories": [
